@@ -25,13 +25,6 @@
 - Sonra derlemeden sonra size rdp'nin kimlik bilgilerini verecektir.
 - Artık **Kullanıcı** ve **Şifre** ile giriş yapabilirsiniz.
 
-## CREDITS:
-Orijinal yazar: Thuonghai001
-
-Sahibin YouTube Kanalı: https://www.youtube.com/channel/UCi80Ipndm3QovIn5XisUz3g
-
-Github repo: https://github.com/kmille36/Linux-to-Windows-with-QEMU
-
 ## SORUMLULUK REDDİ:
 - Bu yöntemi aşırı şekilde kullanmayın.
  - Yasadışı şeyler kullanmak kesinlikle yasaktır
